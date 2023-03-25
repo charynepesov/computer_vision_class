@@ -1,0 +1,7 @@
+train: ../cats_dogs/train/    # train images dir
+val:  ../cats_dogs/val/       # val images dir
+test: ../cats_dogs/test/      # test images (optional)
+
+# Classes
+nc: 2  # number of classes
+names: ['cat', 'dog']  # class names
